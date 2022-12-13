@@ -1,6 +1,4 @@
 # SPCN-012
-Overview of Hypervisor Technologies, Container Technology, Monolithic MicroService, Proxmox, Ceph, NFS
-
 ## 1) Hypervisor Technology
 - Hypervisor (ไฮเปอร์ไวเซอร์) คือ อะไร?
     - hypervisor คือเทคนิคการจำลองให้ระบบปฏิบัติการหลายระบบสามารถทำงานพร้อมกันบนโฮสต์ได้ 
